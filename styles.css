@@ -88,6 +88,7 @@ aside ul {
 aside ul .nav-link {
   display: grid;
   grid-template-columns: 20px 1fr;
+  align-items: center;
   grid-gap: 15px;
   padding: 0.6rem 0;
 }
