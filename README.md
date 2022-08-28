@@ -2,6 +2,8 @@
 
 Admin Dashboard for Odin Project
 
+Live site under: https://floreaportari.github.io/Admin-Dashboard/
+
 Tools used:
 
 HTML and CSS
