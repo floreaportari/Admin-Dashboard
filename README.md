@@ -1,11 +1,12 @@
 # Admin-Dashboard
 
-Admin Dashboard for Odin Project
+### Admin Dashboard for Odin Project!
 
-Live site under: https://floreaportari.github.io/Admin-Dashboard/
+> Live site under: https://floreaportari.github.io/Admin-Dashboard/
 
 Tools used:
 
-HTML and CSS
+- **HTML**
+- **CSS**
 
-Website is desktop only, not available on mobile devices!
+**NOTE:** _Website is desktop only, not compatible on mobile devices!_
